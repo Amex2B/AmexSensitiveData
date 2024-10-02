@@ -1,5 +1,6 @@
 # AmexSensitiveData
-**PII Redaction Text Classifier**
+**PII Redaction Text Classifier**  
+
 This project builds a machine learning model to detect and redact sensitive personal information (PII) from internal text data, enhancing customer privacy and generating compliant test datasets.
 
 PII Detection: Automatically redacts sensitive data.

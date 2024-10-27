@@ -7,6 +7,6 @@ PII Detection: Automatically redacts sensitive data.
 
 Techniques: 
 - Uses scikit-learn for preprocessing and vectorization.
-- Leverages SpaCy and Regex for accurate PII detection.
+- Leverages DeBERTa and Regex for accurate PII detection.
 
 Dataset used: https://huggingface.co/datasets/Isotonic/pii-masking-200k

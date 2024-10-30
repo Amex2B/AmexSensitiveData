@@ -4,7 +4,7 @@
 This project builds a machine learning model to detect and redact sensitive personal information (PII) from internal text data, enhancing customer privacy and generating compliant test datasets.
 
 ### 📌 Key Features
-- **PII Detection and Redaction**: Automatically detects and redacts sensitive data types, including names, addresses, and financial information.
+- **PII Detection and Redaction**: Automatically detects and redacts sensitive data types, including names, phone numbers, and financial information.
 - **Compliance-Friendly Dataset Generation**: Ensures that internal datasets meet privacy and regulatory requirements by masking PII fields.
 - **Scalable and Extensible**: Modular code allows for scaling and adapting to additional PII types or sources.
 

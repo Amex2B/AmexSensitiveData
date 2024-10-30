@@ -21,5 +21,5 @@ This project builds a machine learning model to detect and redact sensitive pers
 - Joy Chang
 - Shrieyaa Sekar Jayanthi
 - Shubangi Waldiya
-- Stell Huang
+- Stella Huang
 - Break Through Tech AI at UCLA & American Express

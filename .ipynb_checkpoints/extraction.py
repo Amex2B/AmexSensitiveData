@@ -25,7 +25,8 @@ def extract_tel_numbers_english(dataset):
                     tel_data.append({
                         'unmasked_text': example['unmasked_text'],
                         'masked_text': example['masked_text'],
-                        'phone_number': tel_value
+                        'phone_number': tel_value,
+                        'privacy_mask': example['privacy_mask']
                     })
 
     return tel_data

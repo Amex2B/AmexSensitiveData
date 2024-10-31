@@ -1,5 +1,6 @@
 from datasets import load_dataset
 import pandas as pd
+import os
 
 # Load the dataset
 ds = load_dataset("Isotonic/pii-masking-200k")
@@ -38,7 +39,7 @@ tel_data = extract_tel_numbers_english(ds['train'])
 df = pd.DataFrame(tel_data)
 
 # Save the DataFrame to a CSV file
-output_csv = 'extracted_tel_numbers_english.csv'
+output_csv = os.path.join(os.getcwd(), 'data', "extracted_tel_numbers_english.csv")
 df.to_csv(output_csv, index=False)
 
 print(f"Extracted phone numbers from English rows saved to {output_csv}")

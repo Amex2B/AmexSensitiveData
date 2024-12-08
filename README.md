@@ -17,7 +17,7 @@ This project builds a machine learning model to detect and redact sensitive pers
 [PII Masking Dataset (200k)](https://huggingface.co/datasets/Isotonic/pii-masking-200k): A dataset with labeled PII used to train and validate the redaction model.
 
 ### 👣 Potential Next Steps
-- **Datset**: Add more attributes to improve data identification, find a more comprehensive/representative dataset
+- **Dataset**: Add more attributes to improve data identification, find a more comprehensive/representative dataset
 - **Models**: Reduce redundant labels in output, make ensemble model to better generalize each attribute
 
 ### Contributors:

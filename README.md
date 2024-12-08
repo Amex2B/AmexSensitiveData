@@ -20,6 +20,6 @@ This project builds a machine learning model to detect and redact sensitive pers
 - Ayan Gaur
 - Joy Chang
 - Shrieyaa Sekar Jayanthi
-- Shubangi Waldiya
+- Shubhangi Waldiya
 - Stella Huang
 - Break Through Tech AI at UCLA & American Express
